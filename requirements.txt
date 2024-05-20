@@ -1,0 +1,5 @@
+numpy==1.26.4
+tensorflow==2.16.1
+matplotlib==3.9.0
+tensorflow-hub==0.16.1
+tensorflow_datasets==4.9.4
